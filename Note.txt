@@ -1,0 +1,7 @@
+Note.txt
+font-family: "Playfair" , serif;
+font-family: "Ubuntu" ,sans-serif;
+
+color
+    #626262;
+    #000000;
